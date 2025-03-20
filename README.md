@@ -5,7 +5,7 @@
 - 📫 How to reach me ... 
 
 Gmail: m.usman2k19@gmail.com 
-Twitter: https://twitter.com/Malak_2k19?s=09
+
 
 <!---
 Usman2k19/Usman2k19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
